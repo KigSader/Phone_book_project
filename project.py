@@ -91,3 +91,7 @@ class Phonebook:
                 print("Такого комментария в списке нет")
         else:
             print("Неверный ввод параметра")
+
+phonebook = Phonebook()
+
+phonebook.add_contact()
