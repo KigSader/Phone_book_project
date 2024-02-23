@@ -93,5 +93,3 @@ class Phonebook:
             print("Неверный ввод параметра")
 
 phonebook = Phonebook()
-
-phonebook.add_contact()
